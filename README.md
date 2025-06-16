@@ -3,6 +3,7 @@
 > [[Paper](https://openreview.net/pdf?id=Shwtw8uV8l)] [[Project](https://github.com/mingcv/DSIT_Sources/blob/main/assets/DSIT_NIPS2024_Poster.pdf)] 🤗[[Demo](https://github.com/mingcv/DSIT_Sources/blob/main/assets/DSIT_NIPS2024_Slides.pptx)]<br>
 > [Qiming Hu](https://scholar.google.com/citations?user=4zasPbwAAAAJ), [Hainuo Wang](https://scholar.google.com/citations?user=Z2RcbF4AAAAJ), [Xiaojie Guo](https://sites.google.com/view/xjguo/homepage) <br>
 > College of Intelligence and Computing, Tianjin University
+> Journal version of our previous SIRS works: [[YTMT](https://github.com/mingcv/YTMT-Strategy)], [[DSRNet](https://github.com/mingcv/DSRNet)], and [[DSIT](https://github.com/mingcv/DSIT)].
 
 ### 1. Network Architecture
 <p align="center">
