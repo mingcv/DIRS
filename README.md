@@ -10,9 +10,14 @@
   <img src="assets/fig_arch.jpg">
 </p>
 
-### 2. Environment Preparation (Python 3.9)
+### 2. Interactive Block Designs
+<p align="center">
+  <img src="assets/fig_dsim.jpg">
+</p>
+
+### 3. Environment Preparation (Python 3.9)
 ```pip install -r requirements.txt```
-### 3. Data Preparation
+### 4. Data Preparation
 
 #### Training dataset
 * 7,643 images from the
