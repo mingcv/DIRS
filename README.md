@@ -1,7 +1,7 @@
 ### 📖 DIRS: Single Image Reflection Separation via Deep Feature Interaction
 
 > [[Paper](https://openreview.net/pdf?id=Shwtw8uV8l)] [[Project](https://mingcv.github.io/DIRS-Assets)]🤗[[Demo](https://mingcv.github.io/DIRS-Assets)]<br>
-> [Qiming Hu](https://scholar.google.com/citations?user=4zasPbwAAAAJ), [Hainuo Wang](https://scholar.google.com/citations?user=Z2RcbF4AAAAJ), [Xiaojie Guo](https://sites.google.com/view/xjguo/homepage) <br>
+> [Qiming Hu](https://scholar.google.com/citations?user=4zasPbwAAAAJ), Mingjia Li, Yuntong Li, [Xiaojie Guo](https://sites.google.com/view/xjguo/homepage) <br>
 > College of Intelligence and Computing, Tianjin University <br>
 > Journal version of our previous SIRS works: [[YTMT](https://github.com/mingcv/YTMT-Strategy)], [[DSRNet](https://github.com/mingcv/DSRNet)], and [[DSIT](https://github.com/mingcv/DSIT)].
 
