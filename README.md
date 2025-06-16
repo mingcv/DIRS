@@ -15,6 +15,8 @@
   <img src="assets/fig_dsim.jpg">
 </p>
 
+<iframe src="https://mingcv.github.io/DIRS-Assets/" width="100%" height="650" frameborder="0"></iframe>
+
 ### 3. Environment Preparation (Python 3.9)
 ```pip install -r requirements.txt```
 ### 4. Data Preparation
