@@ -6,7 +6,7 @@
 
 ### 1. Network Architecture
 <p align="center">
-  <img src="assets/fig_arch_final.jpg">
+  <img src="assets/fig_arch.jpg">
 </p>
 
 ### 2. Environment Preparation (Python 3.9)
