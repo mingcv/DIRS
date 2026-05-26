@@ -1,13 +1,13 @@
-### 📖 DIRS: Single Image Reflection Separation via Deep Feature Interaction
+### 📖 DIRS: Principled Reflection Separation via Nonlinear Superposition and Feature Interaction
 
 > [[Paper](https://openreview.net/pdf?id=Shwtw8uV8l)] [[Project](https://mingcv.github.io/DIRS-Page)]🤗[[Demo](https://mingcv.github.io/DIRS-Page)]<br>
-> [Qiming Hu](https://scholar.google.com/citations?user=4zasPbwAAAAJ), [Mingjia Li](https://mingjia.li/), Yuntong Li, [Xiaojie Guo](https://sites.google.com/view/xjguo/homepage) <br>
+> [Qiming Hu](https://scholar.google.com/citations?user=4zasPbwAAAAJ), [Mingjia Li](https://mingjia.li/), [Yuntong Li](https://scholar.google.com/citations?&user=Pu7-JBEAAAAJ), [Xiaojie Guo](https://sites.google.com/view/xjguo/homepage) <br>
 > College of Intelligence and Computing, Tianjin University <br>
 > Journal version of our previous SIRS works: [[YTMT](https://github.com/mingcv/YTMT-Strategy)], [[DSRNet](https://github.com/mingcv/DSRNet)], and [[DSIT](https://github.com/mingcv/DSIT)].
 
 ### 1. Network Architecture
 <p align="center">
-  <img src="assets/fig_arch.jpg">
+  <img src="assets/fig_arch_dirs.jpg">
 </p>
 
 ### 2. Interactive Block Designs
